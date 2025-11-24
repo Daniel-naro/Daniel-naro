@@ -26,15 +26,16 @@ Responsabilidades e conquistas:
 Manipulação de dados com SQL.
 Desevolvimento de pequenos programs em linguagens C.
 
-📁 O que você encontrará no meu GitHub
+* 📁 O que você encontrará no meu GitHub
 Projetos pessoais e acadêmicos
 Projetos web, scripts e experimentos diversos
 
-📫 Como falar comigo
-✉️ Email: fatallit156@gmail.com
+* 📫 Como falar comigo
+* ✉️ Email: fatallit156@gmail.com
 📫 Redes Sociais
-✉️ LinkedIn: in/daniel-nascimento-92548b37b
-✉️ Lattes: http://lattes.cnpq.br/4262703852667952
+* ✉️ LinkedIn: in/daniel-nascimento-92548b37b
+* ✉️ Lattes: http://lattes.cnpq.br/4262703852667952
+* 
 Obrigado por visitar meu perfil! Fique à vontade para explorar os repositórios 🚀## 
 
 
