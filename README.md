@@ -35,7 +35,9 @@ Projetos web, scripts e experimentos diversos
 📫 Redes Sociais
 * ✉️ LinkedIn: in/daniel-nascimento-92548b37b
 * ✉️ Lattes: http://lattes.cnpq.br/4262703852667952
-* 
+* REPOSITÓRIO PRINCIPAL.
+  
+* https://github.com/Daniel-naro/Repositor_io_DesenvolvimentoProfissional
 Obrigado por visitar meu perfil! Fique à vontade para explorar os repositórios 🚀## 
 
 
