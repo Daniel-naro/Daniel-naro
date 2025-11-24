@@ -32,6 +32,7 @@ Projetos web, scripts e experimentos diversos
 ✉️ Lattes: http://lattes.cnpq.br/4262703852667952
 Obrigado por visitar meu perfil! Fique à vontade para explorar os repositórios 🚀## 
 
+
 <!--
 **Daniel-naro/Daniel-naro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
