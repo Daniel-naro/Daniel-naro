@@ -4,12 +4,17 @@ Sou um Profissional de TI em desevolvimento, estou cursando Analise e Deselvovim
 Buscando aprimoramento nas areas de tecnologia, com cursos e atividades.
 
 🚀 Sobre mim
-💻 Experiência em Python, SQL, Linguagem C, e HTML.
-🌱 Estudando maneiras de atuar com Desolvimento Sustentavel, buscando alternativas mais ecologicas e acompanhando práticas sustentvéis.
-👯 Estou procurando participar de estagios para desenvolver minhas ablidades e começar a crescer no mercado de trabalho.
-📚 Aqui no meu GitHub você encontrará projetos pessoais e acadêmicos que demonstram minha evolução, curiosidade e busca contínua por aprendizado.
+
+* 💻 Experiência em Python, SQL, Linguagem C, e HTML.
+
+* 🌱 Estudando maneiras de atuar com Desolvimento Sustentavel, buscando alternativas mais ecologicas e acompanhando práticas sustentvéis.
+
+* 👯 Estou procurando participar de estagios para desenvolver minhas ablidades e começar a crescer no mercado de trabalho.
+
+* 📚 Aqui no meu GitHub você encontrará projetos pessoais e acadêmicos que demonstram minha evolução, curiosidade e busca contínua por aprendizado.
 🧠 Graduação
-Análise e Desenvolvimento de Sistemas – Centro Universitário do Distrito Federal
+
+* Análise e Desenvolvimento de Sistemas – Centro Universitário do Distrito Federal
 📍 Brasília, Distrito Federal
 
 💼 Experiência Profissional
