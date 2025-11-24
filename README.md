@@ -38,7 +38,9 @@ Projetos web, scripts e experimentos diversos
 * REPOSITÓRIO PRINCIPAL.
   
 * https://github.com/Daniel-naro/Repositor_io_DesenvolvimentoProfissional
-Obrigado por visitar meu perfil! Fique à vontade para explorar os repositórios 🚀## 
+
+  
+* Obrigado por visitar meu perfil! Fique à vontade para explorar os repositórios 🚀## 
 
 
 <!--
